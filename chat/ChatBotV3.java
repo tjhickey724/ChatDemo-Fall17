@@ -3,6 +3,17 @@ package chat;
 import java.util.Scanner;
 import lib.StringArray;
 
+/**
+ChatBotV3 is the scaffolding code for the PA04 homework for CS11a Fall 2017
+at Brandeis University. The Homework assignment is to
+<ul>
+<li> Change the Persona</li>
+<li> Add 4 new categories (modelled after familyWords/familyResponses)</li>
+<li> Add a history array storing user sentences</li>
+<li> If nothing else matches, pick a previous sentence and use it in your response</li>
+<li> Generate real responses to 3 or more specific questions</li>
+</ul>
+*/
 public class ChatBotV3 {
 
 
