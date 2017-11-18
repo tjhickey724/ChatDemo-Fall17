@@ -13,6 +13,10 @@ at Brandeis University. The Homework assignment is to
 <li> If nothing else matches, pick a previous sentence and use it in your response</li>
 <li> Generate real responses to 3 or more specific questions</li>
 </ul>
+
+@author Tim Hickey
+@version 3.0
+@since 11/15/2017
 */
 public class ChatBotV3 {
 
